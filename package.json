@@ -11,7 +11,7 @@
   "type": "module",
   "license": "ISC",
   "dependencies": {
-    "@atproto/api": "^0.2.7",
+    "@atproto/api": "^0.2.11",
     "dotenv": "^16.0.3"
   },
   "devDependencies": {
